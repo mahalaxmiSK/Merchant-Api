@@ -1,9 +1,0 @@
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\bin\Debug\netcoreapp3.1\Merchant.BL.deps.json
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\bin\Debug\netcoreapp3.1\Merchant.BL.dll
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\bin\Debug\netcoreapp3.1\Merchant.BL.pdb
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.AssemblyInfoInputs.cache
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.AssemblyInfo.cs
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.dll
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.pdb
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.csproj.CoreCompileInputs.cache
-D:\SourceCode\ChannelEngine\ChannelEngine\Merchant.BL\obj\Debug\netcoreapp3.1\Merchant.BL.csprojAssemblyReference.cache

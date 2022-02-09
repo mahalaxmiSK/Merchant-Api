@@ -5,6 +5,7 @@ using System.Collections.Generic;
 
 namespace AspWebClient.Utilities
 {
+    
     public static class ApiUtility
     {
         public static OrderResponse GetOrders()
@@ -46,7 +47,7 @@ namespace AspWebClient.Utilities
             productResponse.Products = new List<Product>();
             try
             {
-                var apiTopProducts = MerchantApi.ApiHelper.GetTop5();
+                var apiTopProducts = MerchantApi.ApiHelper.GetTop5Products();
                 apiTopProducts.ForEach(_ => productResponse.Products.Add(new Product { Gtin = _.Gtin, ProductName = _.ProductName, Quantity = _.Quantity }));
                 return productResponse;
             }

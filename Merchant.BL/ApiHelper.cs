@@ -50,7 +50,7 @@ namespace Merchant.BL
         /// Gets top 5 products sold from orders
         /// </summary>
         /// <returns></returns>
-        public List<Product> GetTop5()
+        public List<Product> GetTop5Products()
         {
             var returnList = new List<Product>();
             var data = orderList.Content.SelectMany(_ => _.Lines);

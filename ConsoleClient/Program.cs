@@ -55,7 +55,7 @@ namespace ConsoleClient
                 Console.WriteLine("--------------");
                 Console.WriteLine("Top 5 Products");
                 Console.WriteLine("--------------");
-                var products = MerchantApi.ApiHelper.GetTop5();
+                var products = MerchantApi.ApiHelper.GetTop5Products();
                 var table = new ConsoleTable("ProductName", "Gtin", "Quantity");
                 products.ForEach(_ => table.AddRow(_.ProductName, _.Gtin, _.Quantity));
                 table.Write();
